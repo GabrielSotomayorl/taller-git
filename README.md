@@ -1,3 +1,3 @@
 # taller-git
-Repositorio taller github elsoc
+Repositorio taller github elsoc   
 Edición 1
